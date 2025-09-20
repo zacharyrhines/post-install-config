@@ -40,11 +40,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Define permissions for agents based on the role they will have.
 
 <p>
-<img src="https://imgur.com/XAdPoXQ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPost1" src="https://github.com/user-attachments/assets/f92e5d52-8dfb-4922-b0a9-c784b948e7e6" />
 </p>
 
 <p>
-<img src="https://imgur.com/CqWKHm4.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPost2" src="https://github.com/user-attachments/assets/8041b321-8d17-4f82-8079-ce0a169717d8" />
 </p>
 
 <h3>3.) Configure Departments</h3>
@@ -54,7 +54,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
 <p>
-<img src="https://imgur.com/aMvPLZ0.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickLifecycle6" src="https://github.com/user-attachments/assets/73321974-f84a-4393-82c1-0c270ca8dd1c" />
 </p>
 
 <h3>4.) Configure Teams</h3>
@@ -64,7 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Pull agents from different departments to form specialized teams.
 
 <p>
-<img src="https://imgur.com/nfAhfgy.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall1" src="https://github.com/user-attachments/assets/e3b427fa-ec3c-4876-8963-102f1ba33b33" />
 </p>
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
@@ -74,7 +74,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets.
 
 <p>
-<img src="https://imgur.com/cy4pG2Z.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall2" src="https://github.com/user-attachments/assets/5c905574-d965-438b-add3-6986bee0d0f9" />
 </p>
 
 <h3>6.) Configure Agents (Workers)</h3>
@@ -85,15 +85,15 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **John**: Assigned to the **Support** department.
 
 <p>
-<img src="https://imgur.com/JfsgQcX.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall3" src="https://github.com/user-attachments/assets/0a295d87-bccd-4495-a231-64d3c5ef3aa6" />
 </p>
 
 <p>
-<img src="https://imgur.com/in2jjvm.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall4" src="https://github.com/user-attachments/assets/bf587395-9dd5-4b15-882e-b8c2bc2535d7" />
 </p>
 
 <p>
-<img src="https://imgur.com/UzIHvtJ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall5" src="https://github.com/user-attachments/assets/b63e893d-4ce3-48ea-b2f3-d4d12684c754" />
 </p>
 
 <h3>7.) Configure Users (Customers)</h3>
@@ -104,7 +104,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Ken**
  
 <p>
-<img src="https://imgur.com/9SzEQ4p.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall6" src="https://github.com/user-attachments/assets/d30d00ec-c2a2-4371-b828-d5e1316aa05f" />
 </p>
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
@@ -116,11 +116,11 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
 <p>
-<img src="https://imgur.com/QNQMtmC.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall7" src="https://github.com/user-attachments/assets/b5166f75-e6f3-4dd3-8f6b-c281ceb18de9" />
 </p>
 
 <p>
-<img src="https://imgur.com/XS5xpMb.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall8" src="https://github.com/user-attachments/assets/b7ea4350-f87d-458b-8bde-4a9b0016791d" />
 </p>
 
 <h3>9.) Configure Help Topics</h3>
@@ -134,7 +134,7 @@ This tutorial outlines the post-install configuration of the open-source help de
   - **Other**
 
 <p>
-<img src="https://imgur.com/vXYJ7bQ.png" height="80%" width="80%" alt="Step 2 Lab 3"/>
+<img width="80%" height="80%" alt="OSTickPostIntall9" src="https://github.com/user-attachments/assets/6d02bf82-d2f6-454a-b81a-e5f5d4a2c28e" />
 </p>
 
 <h2>Conclusion</h2>
